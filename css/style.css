@@ -1,0 +1,79 @@
+.navbar-default {
+    margin-bottom: 0px;
+}
+
+body {
+    background-color:#558899;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+.row {
+    text-align: center;
+    padding-bottom:20px;
+    margin:auto;
+}
+
+.glyphicon {
+    font-size: 300%;
+    padding-top:20px;
+}
+
+
+
+p {
+    font-size:25px;
+}
+
+h2 {
+    font-size:30px;
+}
+
+#fbar{
+    text-align:center;
+}
+
+
+
+
+/* id of carousel slides */
+#firstSlide {
+    color:#558899 !important;
+    height:500px;
+    width:120px;
+}
+
+#secondSlide {
+    color:#558899 !important;
+    height:500px;
+    width:120px;
+    
+}
+
+#thirdSlide {
+    color:#558899 !important;
+    height:500px;
+    width:120px;
+}
+
+#fourthSlide {
+    color:#558899 !important; 
+    height:500px;
+    width:120px;
+}
+
+
+
+carousel-caption {
+    text-shadow: 3 3 3px black;
+}
+
+.slidetext {
+    color:#558899;
+}
+
+
+
+.aboutus {
+    padding-bottom:50px;
+}
